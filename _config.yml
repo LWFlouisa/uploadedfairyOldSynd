@@ -1,9 +1,8 @@
-title: Hacker-Blog
-description: "A Jekyll Blog Theme For Hackers"
+title: Uploaded Fairy
+description: "The syndicated version of my webcomic. You can find the link to the main site here: https://lwflouisa.github.io/uploadedfairyalt/"
 author:
-  name: "SomeHacker"
-  email: "someone@somewebsite.somedomain"
-  url: "https://ashishchaudhary.in/hacker-blog"
+  name: "LWFlouisa"
+  url: "https://lwflouisa.github.io/uploadedfairyalt/"
 
 baseurl: /
 
@@ -28,5 +27,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "SomeHacker"
+owner : "LWFlouisa"
 year : "2020"
