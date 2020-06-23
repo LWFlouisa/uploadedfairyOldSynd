@@ -1,6 +1,6 @@
 ---
-title: Next Morning Beheading p2
+title: Measurements Of A Shielded Guillotine Gun
 published: true
 ---
-## Next Morning Beheading P2
+## Measurements Of A Shielded Guillotine Gun
 ![image](https://raw.githubusercontent.com/LWFlouisa/uploadedfairyalt/master/pages/page3.png)
