@@ -1,5 +1,5 @@
 ---
-title: Cleaning The Guillotine Blade
+title: Next Morning Beheading
 published: true
 ---
 ##
